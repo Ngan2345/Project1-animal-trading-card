@@ -1,0 +1,48 @@
+/* add my CSS here */
+body{
+    background-color: rgb(241, 219, 225);
+    font: normal 14px Helvetica, sans-serif;
+}
+
+.container{
+    width: 300.5px;
+    padding: 10px;
+    margin: auto;
+    border: 1.5px solid hsl(0, 4%, 78%);
+    box-shadow: 0 8px 16px 0 #cac6c6, 0 12px 40px 0 #cac6c6;
+}
+
+h3{
+    font: bold 20px Helvetica, sans-serif;
+    color:rgb(202, 24, 113);
+    padding: 0.1px;
+    margin: auto;
+    border: 1px solid rgb(241, 219, 225);
+}
+
+img{
+    padding: 0.1px;
+    margin: auto;
+    border: 0.05px solid #cac6c6;
+}
+
+.textbox{
+    padding: 10px;
+    margin: auto;
+    border: 0.05px solid #d1cece; 
+}
+
+.fact{
+    font-style: italic;
+    margin: auto;
+}
+
+ul{
+    list-style-type: none;
+    padding: 0;
+}
+
+li span{
+    font-weight:bold;
+}
+
